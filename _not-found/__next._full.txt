@@ -12,4 +12,4 @@ d:[]
 7:"$Wd"
 9:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 6:null
-b:[["$","title","0",{"children":"??? | AI ?????"}],["$","meta","1",{"name":"description","content":"????????NLP ? Agentic RAG ???????????"}]]
+b:[["$","title","0",{"children":"郑佳乐 | AI 算法工程师"}],["$","meta","1",{"name":"description","content":"专注大模型应用、NLP 与 Agentic RAG 的算法工程师个人网站。"}]]
