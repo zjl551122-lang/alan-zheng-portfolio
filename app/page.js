@@ -27,6 +27,7 @@ const projects = [
 const interests = [
   { title: "AI 前沿", text: "持续跟进大模型、Agent 与检索增强技术，把新想法落成可用系统。" },
   { title: "编程实践", text: "喜欢用 Vibe Coding 快速验证产品设想，也重视工程质量与可维护性。" },
+  { title: "推活", text: "Liella! · 大熊和奏。用舞台、音乐与角色故事为日常充电。" },
   { title: "语言学习", text: "英语 CET-6、日语 JLPT N1；享受语言带来的另一种思考方式。" },
 ];
 
@@ -98,7 +99,6 @@ export default function Home() {
           <div className="portraitMark" aria-hidden="true"><span>A</span><small>ALAN<br />ZHENG</small></div>
           <div className="interestList">{interests.map((item, i) => <article key={item.title}><b>0{i + 1}</b><div><h3>{item.title}</h3><p>{item.text}</p></div></article>)}</div>
         </div>
-        <div className="education"><span>EDUCATION</span><h3>北京工商大学</h3><p>本科 · GPA 3.7 · 2020—2024<br />在校期间参与 BERT、多模态问答等 NLP 项目。</p></div>
       </section>
 
       <section id="schedule" className="section shell schedule">
